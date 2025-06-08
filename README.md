@@ -74,11 +74,26 @@ Visualisasi dilakukan dengan menggunakan **Gnuplot** berdasarkan data `.dat` yan
 ## 📂 Struktur Repositori
 
 ```
-├── dataset.txt # Parameter dataset
-├── euler_bep.c # Program utama (C)
-├── *.dat # Output data dari program
-├── *.png # Visualisasi hasil (opsional)
-└── README.md # Dokumentasi proyek
+├── document/
+│ └── Proyek UAS Komputasi & Numerik Adrian Dika Darmawan 2306250711.pdf
+├── graphics/
+│ ├── dataset1.png
+│ ├── dataset2.png
+│ ├── dataset3.png
+│ ├── dataset4.png
+│ └── dataset5.png
+├── main/
+│ ├── dataset.txt
+│ ├── dataset_1.dat
+│ ├── dataset_2.dat
+│ ├── dataset_3.dat
+│ ├── dataset_4.dat
+│ ├── dataset_5.dat
+│ ├── dataset_gen.c
+│ ├── dataset_gen.exe
+│ ├── euler_bep.c
+│ └── euler_bep.exe
+└── README.md # Dokumentasi proyek ini
 ```
 
 ---
