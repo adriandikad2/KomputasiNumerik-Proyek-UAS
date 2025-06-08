@@ -75,7 +75,7 @@ Visualisasi dilakukan dengan menggunakan **Gnuplot** berdasarkan data `.dat` yan
 
 ```
 ├── document/
-│ └── Proyek UAS Komputasi & Numerik Adrian Dika Darmawan 2306250711.pdf
+│ └── ProyekUAS_2306250711_Adrian.pdf
 ├── graphics/
 │ ├── dataset1.png
 │ ├── dataset2.png
@@ -93,7 +93,7 @@ Visualisasi dilakukan dengan menggunakan **Gnuplot** berdasarkan data `.dat` yan
 │ ├── dataset_gen.exe
 │ ├── euler_bep.c
 │ └── euler_bep.exe
-└── README.md # Dokumentasi proyek ini
+└── README.md
 ```
 
 ---
